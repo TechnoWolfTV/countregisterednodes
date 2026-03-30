@@ -1,0 +1,6 @@
+# Count Registered Nodes
+*By Desour & TechnoWolfTV*
+
+Adds the chat command, "countregisterednodes" for users with the server priv to count the total number of registered nodes.
+
+Forum discussion: [https://forum.minetest.net/viewtopic.php?t=30177]([url](https://forum.minetest.net/viewtopic.php?t=30177))
